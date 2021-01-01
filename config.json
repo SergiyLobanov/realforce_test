@@ -1,0 +1,7 @@
+{
+  "db_driver": "pdo_mysql",
+  "db_name": "realforce",
+  "db_user": "root",
+  "db_password": "",
+  "site_address": "http://realforce.local"
+}
